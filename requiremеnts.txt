@@ -1,0 +1,4 @@
+sqlalchemy
+aiohttp
+psycopg2
+asyncpg
